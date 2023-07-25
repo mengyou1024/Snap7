@@ -12,4 +12,3 @@ execute_process(
     "${CMAKE_CURRENT_LIST_DIR}/lib/snap7.dll"
     "${CMAKE_BINARY_DIR}/snap7.dll"
 )
-
